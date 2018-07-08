@@ -105,7 +105,7 @@ public:
         consensus.BitcoinPostforkTime = 1510950958;
         
         //progpow fork
-        consensus.ProgForkHeight = 514996; // Around 05/17/2018 12:00 UTC
+        consensus.ProgForkHeight = 522120; // Around 07/7/2018 12:00 UTC
         consensus.ProgPostforkBlock = uint256S("00000000000000000030f8fb69f0b0f4be375ad7177e54250750cf5abc4a0442");
         consensus.ProgPostforkTime = 1510950958;
 
